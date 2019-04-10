@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'repo_card.dart';
+import 'package:ChrisRepoList/ui/repo_card.dart';
 import 'package:ChrisRepoList/model/git_repo.dart';
 
 class GitRepoList extends StatelessWidget {

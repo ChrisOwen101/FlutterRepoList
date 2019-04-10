@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:ChrisRepoList/data/CacheRepository.dart';
 import 'package:ChrisRepoList/data/MemCache.dart';
-import 'package:ChrisRepoList/repo_list.dart';
+import 'package:ChrisRepoList/ui/repo_list.dart';
 import 'package:flutter/material.dart';
 import 'package:ChrisRepoList/model/git_repo.dart';
 

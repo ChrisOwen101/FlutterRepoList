@@ -2,7 +2,7 @@ import 'package:ChrisRepoList/ui/CircleImage.dart';
 import 'package:flutter/material.dart';
 
 import 'package:ChrisRepoList/model/git_repo.dart';
-import 'repo_detail_page.dart';
+import 'package:ChrisRepoList/ui/repo_detail_page.dart';
 import 'package:flutter_icons/flutter_icons.dart';
 
 class GitRepoCard extends StatefulWidget {
